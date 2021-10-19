@@ -1,6 +1,6 @@
 # Boilerplate Arithmatic Formatter
 
-This is an original work inspired by one of the five required projects within the freeCodeCamp() Scientific Computing with Python certification. I am responsible for writing all of the code within the <i>arithmatic_arranger.py</i> file. The test code was supplied by freeCodeCamo() in order to analyze my work. Below, you will see the prompt for this programming assignment. 
+This is an original work inspired by one of the five required projects within the freeCodeCamp() Scientific Computing with Python certification. I am responsible for writing all of the code within the <i>arithmatic_arranger.py</i> file. The test code was supplied by freeCodeCamo() in order to analyze the required work. Below, you will see the prompt for this programming assignment. 
 
 ### Assignment
 
